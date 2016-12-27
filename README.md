@@ -3,13 +3,15 @@
 
 #使用说明
 js直接调用,文件名：indexjs.html
+
+移动端一定加上 viewport 这一句，不然截图会出错.
 ```html
 <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>移动端上传图片，生成base64文件插件--js</title>
-<!--移动端一定加上 viewport 这一句，不然截图会出错--->
+
 <meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width, user-scalable=no, minimal-ui">
 <link href="css/user.css" rel="stylesheet">
 

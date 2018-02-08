@@ -69,6 +69,6 @@ require模块调用,文件名：index-Modul.html
 
 ```
 #demo地址
-js直接调用:http://h.hemaj.com/html/Plugin/pic/indexjs.html
+js直接调用:http://www.hemaj.com/html/Plugin/pic/indexjs.html
 
-require模块调用:http://h.hemaj.com/html/Plugin/pic/index-Modul.html
+require模块调用:http://www.hemaj.com/html/Plugin/pic/index-Modul.html
